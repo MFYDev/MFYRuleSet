@@ -1,10 +1,4 @@
 # SSR去广告规则/GFWList规则/Clash规则碎片
-
-* CDN更新状态：[![Actions Status](https://github.com/ACL4SSR/ACL4SSR/workflows/Purge%20CDN%20Cache/badge.svg)](https://github.com/ACL4SSR/ACL4SSR/actions)
-* 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
-* 仅推荐未root的安卓手机使用。
-* Telegram频道订阅地址：**[https://t.me/ACL4SSR](https://t.me/ACL4SSR)**
-* [关于中国的互联网](https://github.com/ACL4SSR/ACL4SSR/wiki/关于中国的互联网)
   
 # 安卓 SSR 去广告ACL规则
   * 屏蔽小米手机和魅族flyme rom系统广告
@@ -105,11 +99,6 @@
 * ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl
 * SSR C# GFWList user.rule ：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule
 
-
-* SS：https://github.com/shadowsocks
-* SSR-WIN：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
-* SSR-安卓：https://github.com/shadowsocksr/shadowsocksr-android/releases
-
 # ♻️ Surge/Shadowrocket Config File Download：
 * 请到相关项目页面根据说明配置 https://github.com/lhie1/Rules
 
@@ -118,24 +107,3 @@
 * 再次更新，点击软件页面底部的更新即可
 
 
-# Root手机推荐：
-* 1.自带去广告的VIA浏览器 http://www.coolapk.com/apk/mark.via
-* 2.HOSTS 广告快走中国版 http://www.coolapk.com/apk/mark.via
-* 3.HOSTS 广告快走开AdAway http://www.coolapk.com/apk/org.adaway
-* https://github.com/neko-dev/neohosts
-* Google Hosts 请移步 https://github.com/googlehosts/hosts
-
-
-# 注：
-* 参照lhie1大神的surge规则改编，致谢!! https://github.com/lhie1/Surge
-
-* 浏览器内部广告太多了，单凭几百条规则可能过滤不过来。少许遗漏，请谅解
-
-* 有问题请发issue,说明状况和所用规则。
-
-* temp文件夹为历史存档 要找以前的版本可以下那个
-	
-
-# License		
-[![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
-* CC-BY-SA-4.0
