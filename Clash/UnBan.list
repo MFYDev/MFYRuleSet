@@ -1,5 +1,8 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
+# 孟繁阳的服务器
+IP-CIDR,96.44.166.0/24,no-resolve
+
 # Epicgames
 DOMAIN-SUFFIX,ol.epicgames.com
 

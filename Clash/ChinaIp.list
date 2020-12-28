@@ -3,7 +3,6 @@
 # 更新：2020-11-11 21:31:33
 # 数量：6010条
 
-IP-CIDR,96.44.166.0/24,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.8.0/21,no-resolve
