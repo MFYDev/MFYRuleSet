@@ -287,7 +287,6 @@ payload:
   - DOMAIN-SUFFIX,mobads.baidu.cn
   - DOMAIN-SUFFIX,mobads.baidu.com
   - DOMAIN-SUFFIX,mpro.baidu.com
-  - DOMAIN-SUFFIX,msite.baidu.com
   - DOMAIN-SUFFIX,mtj.baidu.cn
   - DOMAIN-SUFFIX,mtj.baidu.com
   - DOMAIN-SUFFIX,neirong.baidu.com
@@ -476,8 +475,7 @@ payload:
 
   # Kugou
   - DOMAIN-SUFFIX,ads.service.kugou.com
-  - DOMAIN-SUFFIX,bssdl.kugou.com
-  - DOMAIN-SUFFIX,bssdlbig.kugou.com
+  - DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com
   - DOMAIN-SUFFIX,d.kugou.com
   - DOMAIN-SUFFIX,downmobile.kugou.com
   - DOMAIN-SUFFIX,gad.kugou.com

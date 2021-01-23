@@ -1,6 +1,6 @@
 #**********************************************************************
-# 10.03
-# 2020年10月3日11:41:57
+# 12.28
+# 2020年12月28日20:29:54
 # 转载需要注明版权和来源
 #
 # 屏蔽常用网站、视频、手机rom广告&运营商劫持广告&数据跟踪&开屏广告
@@ -43,7 +43,6 @@
 (^|\.)\w*duomeng\w*\.\w*$
 (^|\.)\w*dwtrack\w*\.\w*$
 (^|\.)\w*guanggao\w*\.\w*$
-(^|\.)\w*lianmeng\w*\.\w*$
 (^|\.)\w*omgmta\w*\.\w*$
 (^|\.)\w*omniture\w*\.\w*$
 (^|\.)\w*openx\w*\.\w*$
@@ -1685,7 +1684,9 @@
 # Douyu 斗鱼
 (^|\.)douyu\.com$
 (^|\.)douyu\.tv$
+(^|\.)douyuscdn\.com$
 (^|\.)douyutv\.com$
+
 
 # Epic
 (^|\.)epicgames\.com$
@@ -1716,19 +1717,6 @@
 (^|\.)googletagservices\.com$
 (^|\.)gtm\.oasisfeng\.com$
 (^|\.)imasdk\.googleapis\.com$
-(^|\.)kh\.google\.com$
-(^|\.)khm\.google\.com$
-(^|\.)khm\.googleapis\.com$
-(^|\.)khm0\.google\.com$
-(^|\.)khm0\.googleapis\.com$
-(^|\.)khm1\.google\.com$
-(^|\.)khm1\.googleapis\.com$
-(^|\.)khm2\.google\.com$
-(^|\.)khm2\.googleapis\.com$
-(^|\.)khm3\.google\.com$
-(^|\.)khm3\.googleapis\.com$
-(^|\.)khmdb\.google\.com$
-(^|\.)khmdb\.googleapis\.com$
 (^|\.)mtalk\.google\.com$
 (^|\.)ocsp\.pki\.goog$
 (^|\.)recaptcha\.net$
@@ -1867,12 +1855,6 @@
 (^|\.)sony\.com$
 (^|\.)sonyentertainmentnetwork\.com$
 
-# Spark
-(^|\.)amplitude\.com$
-(^|\.)firebaseio\.com$
-(^|\.)hockeyapp\.net$
-(^|\.)smartmailcloud\.com$
-
 # SteamCN
 (^|\.)csgo\.wmsj\.cn$
 (^|\.)dl\.steam\.ksyna\.com$
@@ -1880,7 +1862,6 @@
 (^|\.)st\.dl\.bscstorage\.net$
 (^|\.)st\.dl\.eccdnx\.com$
 (^|\.)st\.dl\.pinyuncloud\.com$
-(^|\.)steamcdn-a\.akamaihd\.net$
 (^|\.)steamcontent\.com$
 (^|\.)steamgames\.com$
 (^|\.)steampowered\.com\.8686c\.com$
@@ -1950,6 +1931,7 @@
 (^|\.)\w*announce\w*\.\w*$
 (^|\.)\w*torrent\w*\.\w*$
 (^|\.)\w*tracker\w*\.\w*$
+(^|\.)animebytes\.tv$
 (^|\.)animetorrents\.me$
 (^|\.)awesome-hd\.me$
 (^|\.)beitai\.pt$
@@ -8804,6 +8786,26 @@
 74.125.0.0/16
 173.194.0.0/16
 
+# Google中国服务IP列表 services.googleapis.cn
+120.232.181.162
+120.241.147.226
+120.253.253.226
+120.253.255.162
+120.253.255.34
+120.253.255.98
+180.163.150.162
+180.163.150.34
+180.163.151.162
+180.163.151.34
+203.208.39.0/24
+203.208.40.0/24
+203.208.41.0/24
+203.208.43.0/24
+203.208.50.0/24
+220.181.174.162
+220.181.174.226
+220.181.174.34
+
 # Instagram
 (^|\.)cdninstagram\.com$
 (^|\.)instagram\.com$
@@ -9017,6 +9019,13 @@
 173.244.209.150/32
 173.244.217.42/32
 209.95.56.60/32
+
+# Spark
+(^|\.)amplitude\.com$
+(^|\.)firebaseio\.com$
+(^|\.)hockeyapp\.net$
+(^|\.)readdle\.com$
+(^|\.)smartmailcloud\.com$
 
 # Steam
 (^|\.)fanatical\.com$
